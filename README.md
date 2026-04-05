@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Michal+%F0%9F%91%8B;Dentist+%2B+Developer;Building+Alveodont+%F0%9F%A6%B7;1700%2B+contributions+last+year" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Michal+%F0%9F%91%8B;Dentist+%2B+Developer;Building+Alveodont+%F0%9F%A6%B7" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -46,15 +46,15 @@ class Michal:
 
 ---
 
-### Activity
+### What I'm building
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=michalsvobodapro&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</div>
+**[Alveodont](https://www.alveodont.com)** is a multi-tenant dental practice SaaS built for the Czech market.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michalsvobodapro&theme=github-compact&hide_border=true&area=true" />
-</div>
+- 🦷 Patient records, dental charting, treatment plans, clinical notes
+- 📅 Scheduling, staff management, payroll, leave tracking
+- 🧾 Invoicing, Czech insurance reports, receipts, exports
+- 🤖 AI clinical assistant (Claude + Whisper STT for voice notes)
+- 🔐 MFA, GDPR compliance, multi-role access control
 
 ---
 
