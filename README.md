@@ -6,6 +6,10 @@
   <a href="https://www.alveodont.com">
     <img src="https://img.shields.io/badge/alveodont.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF&labelColor=0d1117" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/michal-svoboda-pro/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117" />
+  </a>
 </div>
 
 <br/>
@@ -14,9 +18,30 @@
 class Michal:
     role     = ["Dentistry Student @ Charles University Prague", "Software Engineer"]
     building = "Alveodont — dental practice management SaaS for Czech clinics"
-    stack    = ["Python", "FastAPI", "SQLAlchemy", "Linux VPS", "Claude AI", "Whisper"]
+    stack    = ["Python", "FastAPI", "PostgreSQL", "React", "TypeScript"]
     focus    = ["backend architecture", "AI clinical workflows", "full-stack product"]
 ```
+
+---
+
+### What I'm building
+
+**[Alveodont](https://www.alveodont.com)** — a multi-tenant dental practice SaaS for the Czech market, currently in active development (launch targeted ~2026).
+
+- 🦷 Patient records, dental charting, treatment plans, clinical notes
+- 📅 Scheduling, staff management, payroll, leave tracking
+- 🧾 Invoicing, Czech insurance reports, receipts, exports
+- 🤖 AI clinical scribe — EU-resident inference, GDPR-first by design
+- 🔐 MFA, multi-role access control, patient-data residency in the EU
+
+---
+
+### Live & public
+
+| Project | What it is |
+|---|---|
+| 🗞️ **[AI & Dentistry Almanac](https://michalsvobodapro.github.io/almanac/)** | A daily curated brief at the intersection of AI and dentistry — regenerated every morning by Claude. Static Astro site on GitHub Pages. |
+| ☕ **[Pan Bejgl](https://github.com/michalsvobodapro/panbejgl)** | Website for Pan Bejgl Bistró Kafe — a bakery & breakfast café in Vinohrady, Praha 2. |
 
 ---
 
@@ -25,36 +50,24 @@ class Michal:
 **Backend** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
 
 **Frontend** &nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Data** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Infra** &nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=flat-square&logo=scaleway&logoColor=white)
 
 **AI** &nbsp;
-![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-
----
-
-### What I'm building
-
-**[Alveodont](https://www.alveodont.com)** is a multi-tenant dental practice SaaS built for the Czech market.
-
-- 🦷 Patient records, dental charting, treatment plans, clinical notes
-- 📅 Scheduling, staff management, payroll, leave tracking
-- 🧾 Invoicing, Czech insurance reports, receipts, exports
-- 🤖 AI clinical assistant (Claude + Whisper STT for voice notes)
-- 🔐 MFA, GDPR compliance, multi-role access control
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
