@@ -19,7 +19,7 @@ class Michal:
     role     = ["Co-founder & Engineer @ Alveodont",
                 "Dentistry @ Charles University (3rd year)",
                 "Computer Science @ CTU FIT (1st year)"]
-    building = "Alveodont — dental practice management SaaS for Czech clinics"
+    building = "Alveodont — practice-management SaaS for healthcare, dentistry first"
     stack    = ["Python", "FastAPI", "PostgreSQL", "React", "TypeScript"]
     focus    = ["backend architecture", "AI clinical workflows", "full-stack product"]
 ```
@@ -28,7 +28,7 @@ class Michal:
 
 ### What we're building
 
-**[Alveodont](https://www.alveodont.com)** — a multi-tenant dental practice SaaS for the Czech market. What began as a solo side project is now a founding team building a real company.
+**[Alveodont](https://www.alveodont.com)** — a multi-tenant practice-management SaaS for healthcare. We're starting where we know the domain from the inside — dentistry — and expanding across medicine from there. What began as a solo side project is now a founding team building a real company.
 
 - 🦷 Patient records, dental charting, treatment plans, clinical notes
 - 📅 Scheduling, staff management, payroll, leave tracking
